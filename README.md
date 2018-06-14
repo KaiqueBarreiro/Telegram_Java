@@ -1,6 +1,6 @@
 # Telegram_Java
 Pequena demonstração de uma comunicação via telegram com o JAVA, podendo realizar comandos, enviar stickers, imagens, audio conforme você deseja.
-Aqui é só uma pequena demonstração de envio de uma mensagem para seu bot criado e respondendo com a sua mensagem invertida. Importe e projeto
+Aqui é só uma pequena demonstração de envio de uma mensagem para seu bot criado e respondendo com a sua mensagem invertida. Importe o projeto
 para sua máquina e se divirta com o bot. 
 
 Link para a explicação de como usar a API: https://core.telegram.org/bots/api
